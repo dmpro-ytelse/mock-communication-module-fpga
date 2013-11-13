@@ -1,18 +1,13 @@
 
 # PlanAhead Generated physical constraints
 
-# Data 0-3
-NET "output[0]" LOC = U15;
-NET "output[1]" LOC = V15;
-NET "output[2]" LOC = M11;
-NET "output[3]" LOC = N11;
-
-# Header 81-83
-NET "input[0]" LOC = F5;
-NET "input[1]" LOC = C2;
-NET "input[2]" LOC = C1;
+# Data 0
+NET "output" LOC = U15;
 
 # Data 1-15
+NET "input[0]" LOC = V15;
+NET "input[1]" LOC = M11;
+NET "input[2]" LOC = N11;
 NET "input[3]" LOC = R11;
 NET "input[4]" LOC = T12;
 NET "input[5]" LOC = V12;
@@ -136,4 +131,6 @@ NET "input[121]" LOC = G6;
 NET "input[122]" LOC = E4;
 NET "input[123]" LOC = D3;
 NET "input[124]" LOC = F6; # 80
-
+NET "input[125]" LOC = F5;
+NET "input[126]" LOC = C2;
+NET "input[127]" LOC = C1;
