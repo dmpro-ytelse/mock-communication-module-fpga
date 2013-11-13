@@ -1,0 +1,139 @@
+
+# PlanAhead Generated physical constraints
+
+# Data 0-3
+NET "output[0]" LOC = U15;
+NET "output[1]" LOC = V15;
+NET "output[2]" LOC = M11;
+NET "output[3]" LOC = N11;
+
+# Header 81-83
+NET "input[0]" LOC = F5;
+NET "input[1]" LOC = C2;
+NET "input[2]" LOC = C1;
+
+# Data 1-15
+NET "input[3]" LOC = R11;
+NET "input[4]" LOC = T12;
+NET "input[5]" LOC = V12;
+NET "input[6]" LOC = N10;
+NET "input[7]" LOC = P11;
+NET "input[8]" LOC = M10;
+NET "input[9]" LOC = N9; # 10
+NET "input[10]" LOC = U11;
+NET "input[11]" LOC = V11;
+NET "input[12]" LOC = M8;
+NET "input[13]" LOC = N8;
+NET "input[14]" LOC = U8;
+
+# Address 0-18
+NET "input[15]" LOC = B2; # 0
+NET "input[16]" LOC = A2;
+NET "input[17]" LOC = D6;
+NET "input[18]" LOC = C6;
+NET "input[19]" LOC = B3;
+NET "input[20]" LOC = A3;
+NET "input[21]" LOC = B4;
+NET "input[22]" LOC = A4;
+NET "input[23]" LOC = C5;
+NET "input[24]" LOC = A5;
+NET "input[25]" LOC = B6; # 10
+NET "input[26]" LOC = C7;
+NET "input[27]" LOC = A7;
+NET "input[28]" LOC = D8;
+NET "input[29]" LOC = C8;
+NET "input[30]" LOC = B8;
+NET "input[31]" LOC = A8;
+NET "input[32]" LOC = G9;
+NET "input[33]" LOC = B11;
+
+# State 0-1
+NET "input[34]" LOC = U7;
+NET "input[35]" LOC = V7;
+
+# Proc En, Write En, LBUB
+NET "input[36]" LOC = N7;
+NET "input[37]" LOC = P8;
+NET "input[38]" LOC = A11;
+
+# Headers
+NET "input[39]" LOC = D4; # 0
+NET "input[50]" LOC = C4;
+NET "input[51]" LOC = A6;
+NET "input[52]" LOC = C9;
+NET "input[53]" LOC = B9;
+NET "input[54]" LOC = A9;
+NET "input[55]" LOC = D11;
+NET "input[56]" LOC = C11;
+NET "input[57]" LOC = C10;
+NET "input[58]" LOC = A10;
+NET "input[59]" LOC = F9; # 10
+NET "input[60]" LOC = B12;
+NET "input[61]" LOC = A12;
+NET "input[62]" LOC = C13;
+NET "input[63]" LOC = A13;
+NET "input[64]" LOC = B14;
+NET "input[65]" LOC = A14;
+NET "input[66]" LOC = F13;
+NET "input[67]" LOC = E13;
+NET "input[68]" LOC = C15;
+NET "input[69]" LOC = A15; # 20
+NET "input[70]" LOC = D14;
+NET "input[71]" LOC = C14;
+NET "input[72]" LOC = B16;
+NET "input[73]" LOC = A16;
+# 25,26,27 missing
+NET "input[74]" LOC = R15;
+NET "input[75]" LOC = T15;
+NET "input[76]" LOC = U16; # 30
+NET "input[77]" LOC = V16;
+NET "input[78]" LOC = R13;
+NET "input[79]" LOC = T13;
+NET "input[80]" LOC = T14;
+NET "input[81]" LOC = V14;
+NET "input[82]" LOC = N12;
+NET "input[83]" LOC = P12;
+NET "input[84]" LOC = U13;
+NET "input[85]" LOC = V13;
+NET "input[86]" LOC = T11; # 40
+NET "input[87]" LOC = T10;
+NET "input[88]" LOC = U10;
+NET "input[89]" LOC = V10;
+NET "input[90]" LOC = R8;
+NET "input[91]" LOC = T8;
+NET "input[92]" LOC = T9;
+NET "input[93]" LOC = V9;
+NET "input[94]" LOC = V8;
+NET "input[95]" LOC = V6;
+NET "input[96]" LOC = R7; # 50
+NET "input[97]" LOC = T7;
+NET "input[98]" LOC = N6;
+NET "input[99]" LOC = P7;
+NET "input[100]" LOC = R5;
+NET "input[101]" LOC = T5;
+NET "input[102]" LOC = U5;
+NET "input[103]" LOC = V5;
+NET "input[104]" LOC = R3;
+NET "input[105]" LOC = T3;
+NET "input[106]" LOC = T4; # 60
+NET "input[107]" LOC = V4;
+NET "input[108]" LOC = N5;
+# 63 missing
+NET "input[109]" LOC = V3;
+# 65 missing
+NET "input[110]" LOC = F2;
+NET "input[111]" LOC = F1;
+NET "input[112]" LOC = H6;
+NET "input[113]" LOC = H5;
+NET "input[114]" LOC = E3; # 70
+NET "input[115]" LOC = E1;
+NET "input[116]" LOC = F4;
+NET "input[117]" LOC = F3;
+NET "input[118]" LOC = D2;
+NET "input[119]" LOC = D1;
+NET "input[120]" LOC = H7;
+NET "input[121]" LOC = G6;
+NET "input[122]" LOC = E4;
+NET "input[123]" LOC = D3;
+NET "input[124]" LOC = F6; # 80
+
